@@ -1,6 +1,6 @@
 
     DogRun
-    Jodie De Greef
+    Niel Duquesne & Jodie De Greef
     Opleidingsonderdeel: New Media Design & Development I
     Academiejaar: 2016-2017
     Opleiding: Bachelor in de grafische en digitale media
